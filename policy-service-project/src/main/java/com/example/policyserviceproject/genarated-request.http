@@ -1,8 +1,0 @@
-GET http://localhost:8080/api/v1/get/policy
-messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
-sentDatetime: 2024-12-30 23:59:58
-Content-Type: application/json
-
-{
-  "insureName" : "นายA1"
-}
