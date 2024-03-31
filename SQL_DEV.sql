@@ -35,12 +35,15 @@ INSERT INTO partnerbenefit.benefit_master (partner_code, plan_code, policy_no, t
 ('789.012', 'GI07', '78901234', 'UI456789', '6', '0482', 'A', '2019-03-15', 70000),
 ('071.123', 'PT08', '89012345', NULL, '7', '0247', 'I', '2019-03-18', 400800);
 
+//ข้อที่ 1 
 SELECT * FROM partnerbenefit.benefit_master
 WHERE partner_code LIKE '071.%';
 
+//ข้อที่ 2
 SELECT * FROM partnerbenefit.benefit_master
 WHERE policy_status_date >= '2020-01-01' AND policy_status_date <= '2020-12-31';
 
+//ข้อที่ 3
 SELECT * FROM partnerbenefit.benefit_master
 WHERE sum >= 100000 AND sum <= 500000;
 
