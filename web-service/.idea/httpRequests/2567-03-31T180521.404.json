@@ -1,0 +1,5 @@
+{
+  "status": "E",
+  "errorCode": "INS400",
+  "errorMessage": "Insure name cannot be empty"
+}

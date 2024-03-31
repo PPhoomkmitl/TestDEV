@@ -1,0 +1,5 @@
+{
+  "status": "E",
+  "errorCode": "INS404",
+  "errorMessage": "Insured name cannot be found."
+}

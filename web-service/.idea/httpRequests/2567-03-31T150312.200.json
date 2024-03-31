@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "นายA1",
+    "policyNo": "P00031",
+    "policyType": "CL",
+    "status": "A",
+    "agentID": "00000005"
+  },
+  {
+    "id": 2,
+    "name": "นางB2",
+    "policyNo": "P00032",
+    "policyType": "LI",
+    "status": "A",
+    "agentID": "00000006"
+  },
+  {
+    "id": 3,
+    "name": "นายA3",
+    "policyNo": "P00033",
+    "policyType": "HI",
+    "status": "A",
+    "agentID": "00000007"
+  }
+]

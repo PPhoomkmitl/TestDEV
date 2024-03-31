@@ -1,0 +1,813 @@
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T231245.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T224244.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T180732.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T180541.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T180521.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T180446.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T180228.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T180112.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA3"
+}
+
+<> 2567-03-31T180106.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T180056.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T175717.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T172716.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T172251.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T172234.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T171801.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T171611.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T171224.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T171214.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T171206.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T170640.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T170314.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T165821.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 23
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : ""
+}
+
+<> 2567-03-31T162533.404.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageId: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T162005.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageID: d756a04f-7e19-47d8-9876-3e4232d83ef1
+sentDatetime: 2024-12-30 23:59:58
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T161914.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageID: {{$guid}}
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T161744.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+messageID: {{$guid}}
+sentDatetime: {{$Date}}
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T161644.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+sentDatetime: {{$Date}}
+messageID: {{$guid}}
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T161521.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+sentDatetime: 1711876482
+messageID: {{$guid}}
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T161442.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+sentDatetime: {{23}}
+messageID: {{$guid}}
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T161431.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+sentDatetime: 1711876440
+messageID: {{$guid}}
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T161400.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+sentDatetime: 1711876288
+messageID: {{$guid}}
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T161128.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 33
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA"
+}
+
+<> 2567-03-31T155604.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T152431.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "นายA1"
+}
+
+<> 2567-03-31T152357.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "นายA1"
+}
+
+<> 2567-03-31T151944.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "นายA1"
+}
+
+<> 2567-03-31T151524.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "นายA1"
+}
+
+<> 2567-03-31T151418.400.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "นายA1"
+}
+
+<> 2567-03-31T151011.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "นายA1"
+}
+
+<> 2567-03-31T150829.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name" : "นายA1"
+}
+
+<> 2567-03-31T150659.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T150619.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA1"
+}
+
+<> 2567-03-31T150610.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA2"
+}
+
+<> 2567-03-31T150537.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA2"
+}
+
+<> 2567-03-31T150312.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA2"
+}
+
+<> 2567-03-31T145524.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA2"
+}
+
+<> 2567-03-31T144325.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA2"
+}
+
+<> 2567-03-31T140359.200.txt
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA2"
+}
+
+<> 2567-03-31T140321.200.json
+
+###
+
+GET http://localhost:8080/api/v1/get/policy
+Content-Type: application/json
+Content-Length: 34
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "insureName" : "นายA2"
+}
+
+<> 2567-03-31T140301.200.json
+
+###
+

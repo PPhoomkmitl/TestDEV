@@ -1,0 +1,13 @@
+{
+  "status": "S",
+  "policies": [
+    {
+      "id": 1,
+      "insureName": "นายA1",
+      "policyNo": "P00031",
+      "policyType": "CL",
+      "status": "A",
+      "agentID": "00000005"
+    }
+  ]
+}
