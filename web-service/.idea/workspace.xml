@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25a466e2-90df-43ce-813d-c1bb9e64b0e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/policy-service-project/src/main/java/com/example/policyserviceproject/model/Policy.java" beforeDir="false" afterPath="$PROJECT_DIR$/policy-service-project/src/main/java/com/example/policyserviceproject/model/Policy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/policy-service-project/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/policy-service-project/target/classes/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="25a466e2-90df-43ce-813d-c1bb9e64b0e1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +101,7 @@
       <workItem from="1711832299593" duration="8034000" />
       <workItem from="1711841798549" duration="45000" />
       <workItem from="1711868337455" duration="16766000" />
-      <workItem from="1711904031472" duration="935000" />
+      <workItem from="1711904031472" duration="1178000" />
     </task>
     <servers />
   </component>
