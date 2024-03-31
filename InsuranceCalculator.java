@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
 public class InsuranceCalculator {
-    
-    public static String calculateCommissionRate(int age, int yearsInsured) {
+
+    /*ข้อที่ 1.1 CommissionRate*/
+    public static String commissionRate(int age, int yearsInsured) {
         if (yearsInsured == 1) {          
             if (age >= 0 && age < 50) {
                 return "2%";
@@ -24,8 +25,9 @@ public class InsuranceCalculator {
         } 
         return "Does not match any case";
     }
-    
-    public static String calculateOverridingRate(int age, String annual) {
+
+    /*ข้อที่ 1.2 OveridingRate*/
+    public static String overridingRate(int age, String annual) {
         if (age >= 0 && age < 50) {
             if (annual.toLowerCase().contains("annual")) {
                 return "20%";
@@ -61,7 +63,7 @@ public class InsuranceCalculator {
             int yearsInsured = Integer.parseInt(sc.nextLine());  
             System.out.print(" Please enter the age of the insured person: ");
             int ageOfInsured = Integer.parseInt(sc.nextLine());  
-            String commissionRate = calculateCommissionRate(ageOfInsured, yearsInsured);
+            String commissionRate = commissionRate(ageOfInsured, yearsInsured);
             System.out.println("\n*************************************************");
             System.out.println(" First year insurance agent commission rate: " + commissionRate);
             System.out.println("*************************************************");
@@ -92,7 +94,7 @@ public class InsuranceCalculator {
                     }
                 } while (choice != 1 && choice != 2);
             }
-            String overridingRate = calculateOverridingRate(ageOfInsured, annual);
+            String overridingRate = overridingRate(ageOfInsured, annual);
             System.out.println("\n*************************************************");
             System.out.println(" Event organization fee per insurance premium: " + overridingRate);
             System.out.println("*************************************************");
