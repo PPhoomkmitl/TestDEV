@@ -19,19 +19,19 @@ public class Policy {
 
     private Long id;
 
-    @Column(name="insure_name" , length = 100)
+    @Column(name="insure_name" , length = 100, nullable = false)
     private String insureName;
 
-    @Column(length = 6)
+    @Column(length = 6, nullable = false)
     private String policyNo;
 
     @Column(length = 2)
     private String policyType;
 
-    @Column(length = 1)
+    @Column(length = 1 ,nullable = false)
     private String status;
 
-    @Column(length = 8)
+    @Column(length = 8 ,nullable = false)
     private String agentID;
 
 
